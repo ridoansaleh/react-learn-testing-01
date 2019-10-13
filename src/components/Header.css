@@ -1,0 +1,9 @@
+.header-wrapper {
+  background: #ff0011;
+  padding: 15px;
+}
+
+.header-wrapper > h2 {
+  color: #fff;
+  margin: 0;
+}
